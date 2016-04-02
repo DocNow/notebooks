@@ -24,6 +24,11 @@ your application's keys:
 You may want to set these [in your Anaconda environment] so you don't have
 to remember to set them all the time.
 
+If you don't need to access Twitter you can also run the notebooks in 
+mybinder without installing things locally:
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/docnow/notebooks)
+
 [Anaconda]: https://www.continuum.io/downloads
 [apps.twitter.com]: https://apps.twitter.com
 [in your Anaconda environment]: http://conda.pydata.org/docs/using/envs.html#saved-environment-variables
