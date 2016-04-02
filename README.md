@@ -22,7 +22,7 @@ your keys:
 * ACCESS_TOKEN
 * ACCESS_TOKEN_SECRET
 
-If you want you can set these [in your Anaconda environment] so you don't have
+You may want to set these [in your Anaconda environment] so you don't have
 to remember to set them all the time.
 
 [Anaconda]: https://www.continuum.io/downloads
