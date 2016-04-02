@@ -1,10 +1,10 @@
-This repository contains various Jupyter notebooks used for sharing ideas
-and testing things out. They are written to run under Anaconda's Python 3
-environment.
+This repository contains various Jupyter notebooks used by the DocNow team
+for sharing and testing out ideas and code. They are written to run under 
+Anaconda's Python 3 environment.
 
-To run these you'll need to:
+To use them you'll need to:
 
-* install [anaconda] for Python 3
+* install [Anaconda] for Python 3
 * create an environment: `conda create --name docnow-notebooks anaconda`
 * activate it: `source activate docnow-notebooks`
 * install dependencies: `pip install -r requirements.txt`
@@ -20,9 +20,9 @@ your keys:
 * ACCESS_TOKEN
 * ACCESS_TOKEN_SECRET
 
-If you want you can set these [in your anaconda environment] so you don't have
+If you want you can set these [in your Anaconda environment] so you don't have
 to remember to set them all the time.
 
-[anaconda]: https://www.continuum.io/downloads
+[Anaconda]: https://www.continuum.io/downloads
 [apps.twitter.com]: https://apps.twitter.com
-[in your anaconda environment]: http://conda.pydata.org/docs/using/envs.html#saved-environment-variables
+[in your Anaconda environment]: http://conda.pydata.org/docs/using/envs.html#saved-environment-variables
