@@ -24,11 +24,6 @@ your application's keys:
 You may want to set these [in your Anaconda environment] so you don't have
 to remember to set them all the time.
 
-If you want to try out functionality in the notebooks that is not dependent on
-the Twitter API you also can launch them in the cloud at Binder:
-
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/docnow/notebooks)
-
 [Anaconda]: https://www.continuum.io/downloads
 [apps.twitter.com]: https://apps.twitter.com
 [in your Anaconda environment]: http://conda.pydata.org/docs/using/envs.html#saved-environment-variables
