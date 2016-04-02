@@ -3,7 +3,6 @@ dependencies:
 - anaconda=4.0.0=np110py35_0
 - anaconda-client=1.4.0=py35_0
 - anaconda-navigator=1.1.0=py35_0
-- appnope=0.1.0=py35_0
 - appscript=1.0.1=py35_0
 - argcomplete=1.0.0=py35_1
 - astropy=1.1.2=np110py35_0
