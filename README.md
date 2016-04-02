@@ -14,7 +14,7 @@ To use them you'll need to:
 
 Some of the notebooks may be dependent on the Twitter API so you should go over
 to [apps.twitter.com], create an app and set these environment variables using
-your keys:
+your application's keys:
 
 * CONSUMER_KEY
 * CONSUMER_SECRET
