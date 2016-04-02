@@ -7,7 +7,7 @@ Anaconda's Python 3 environment.
 To use them you'll need to:
 
 * install [Anaconda] for Python 3
-* create the environment: `conda create --name docnow-notebooks --file environment.yml`
+* create the environment: `conda env create --name docnow-notebooks --file environment.yml`
 * activate it: `source activate docnow-notebooks`
 * start Jupyter: `jupyter notebook`
 * voilà, your browser should open with a view of the notebooks
