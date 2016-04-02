@@ -21,8 +21,8 @@ your application's keys:
 * ACCESS_TOKEN
 * ACCESS_TOKEN_SECRET
 
-You may want to set these [in your Anaconda environment] so you don't have
-to remember to set them all the time. You can also run the notebooks in 
+You may want to set these [in your Anaconda environment] so you don't have to
+remember to set them all the time. If you want you can also run the notebooks in
 mybinder without needing to installing things locally:
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/docnow/notebooks)
