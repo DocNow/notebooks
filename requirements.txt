@@ -1,0 +1,6 @@
+jupyter
+networkx
+scipy
+seaborn
+twarc
+tweepy
