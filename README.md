@@ -10,7 +10,7 @@ To use them you'll need to:
 * create an environment: `conda create --name docnow-notebooks anaconda`
 * activate it: `source activate docnow-notebooks`
 * install dependencies: `pip install -r requirements.txt`
-* start jupyter: `jupyter notebook`
+* start Jupyter: `jupyter notebook`
 * your browser should open with a view of the notebooks
 
 Some of the notebooks may be dependent on the Twitter API so you should go over
