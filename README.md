@@ -22,10 +22,8 @@ your application's keys:
 * ACCESS_TOKEN_SECRET
 
 You may want to set these [in your Anaconda environment] so you don't have
-to remember to set them all the time.
-
-If you don't need to access Twitter you can also run the notebooks in 
-mybinder without installing things locally:
+to remember to set them all the time. You can also run the notebooks in 
+mybinder without needing to installing things locally:
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/docnow/notebooks)
 
