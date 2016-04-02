@@ -7,7 +7,7 @@ Anaconda's Python 3 environment.
 To use them you'll need to:
 
 * install [Anaconda] for Python 3
-* create the environment: `conda create --file environment.yml`
+* create the environment: `conda create --name docnow-notebooks --file environment.yml`
 * activate it: `source activate docnow-notebooks`
 * start Jupyter: `jupyter notebook`
 * voilà, your browser should open with a view of the notebooks
@@ -23,6 +23,11 @@ your application's keys:
 
 You may want to set these [in your Anaconda environment] so you don't have
 to remember to set them all the time.
+
+If you want to try out functionality in the notebooks that is not dependent on
+the Twitter API you also can launch them in the cloud at Binder:
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/docnow/notebooks)
 
 [Anaconda]: https://www.continuum.io/downloads
 [apps.twitter.com]: https://apps.twitter.com
