@@ -11,7 +11,7 @@ To use them you'll need to:
 * activate it: `source activate docnow-notebooks`
 * install dependencies: `pip install -r requirements.txt`
 * start Jupyter: `jupyter notebook`
-* your browser should open with a view of the notebooks
+* voilà, your browser should open with a view of the notebooks
 
 Some of the notebooks may be dependent on the Twitter API so you should go over
 to [apps.twitter.com], create an app and set these environment variables using
